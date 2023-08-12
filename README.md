@@ -1,3 +1,3 @@
 # FIRST REPOSITORY
 
-description
+Some description.
